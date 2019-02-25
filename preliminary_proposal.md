@@ -1,7 +1,7 @@
 # Preliminary Proposal
 
 ## High level description of project.
-I will use the grant list available through the US government and web scrape to obtain their abstracts. Then I will use NLP to identfy major topics in the abstracts pulled.  
+I will use the awarded grants list available through the US government and web scrape to obtain their abstracts. This will allow me to use NLP to identfy major topics in the abstracts pulled.  
 
 ## What question or problem are you trying to solve?
 What awarded grant trends exist and which topics are expected to see an increase in awarded grant money over time. This can allow current grant writers topics on which to focus on and thus improve their success rate of acceptance. Ideally this can also help visualize and predict major trends in research. 
